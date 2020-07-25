@@ -1,0 +1,3 @@
+## SKIP BELOW FOLDERS ON COMMIT 
+./node_modules
+node_modules
