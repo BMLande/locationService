@@ -16,7 +16,7 @@ const path = require('path');
 const app = express();
 
 // DATABASE CONNECTION
-mongoose.connect("mongodb://bhagvat:bhagvat123@ds115768.mlab.com:15768/location-app", {
+mongoose.connect("", {
     useNewUrlParser: true,
     useUnifiedTopology: true,
     useFindAndModify: false
