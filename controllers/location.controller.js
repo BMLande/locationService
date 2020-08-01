@@ -5,7 +5,7 @@ var NodeGeocoder = require('node-geocoder');
 
 var geocoder = NodeGeocoder({
     provider: 'opencage',
-    apiKey: '7757a27a5237431b9fac595f22264572'
+    apiKey: ''
 });
 
 module.exports = {
